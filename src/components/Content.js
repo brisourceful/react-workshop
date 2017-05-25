@@ -3,7 +3,7 @@ import React, {Component} from 'react'
 class Content extends Component {
   render(){
     return(<div>
-      and I'm your main content
+      <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" />
       </div>)
   }
 }

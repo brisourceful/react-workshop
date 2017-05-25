@@ -1,9 +1,9 @@
 import React, {Component} from 'react'
 
-class BasicComponent extends Component {
+class AboutComponent extends Component {
   render(){
     return(<div>
-        Hi, I'm a Basic Component!
+      This is the About Component. 
       </div>)
   }
 }
