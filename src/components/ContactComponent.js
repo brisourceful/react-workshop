@@ -8,4 +8,4 @@ class ContactComponent extends Component {
   }
 }
 
-export default MyFirstComponent;
+export default ContactComponent;
